@@ -1,0 +1,20 @@
+CONST_STR_LEN	spawn-fcgi.c	/^#define CONST_STR_LEN(s) s, sizeof(s) - 1$/
+EALREADY	spawn-fcgi.c	34
+ECONNABORTED	spawn-fcgi.c	35
+ECONNRESET	spawn-fcgi.c	32
+EINPROGRESS	spawn-fcgi.c	33
+FCGI_LISTENSOCK_FILENO	spawn-fcgi.c	25
+Mspawn-fcgi	spawn-fcgi.c	/^int main(int argc, char **argv) {$/
+PACKAGE_DESC	spawn-fcgi.c	78
+PACKAGE_FEATURES	spawn-fcgi.c	73
+PACKAGE_FEATURES	spawn-fcgi.c	75
+USE_IPV6	spawn-fcgi.c	69
+bind_socket	spawn-fcgi.c	/^static int bind_socket(const char *addr, unsigned /
+fcgi_spawn_connection	spawn-fcgi.c	/^static int fcgi_spawn_connection(char *appPath, ch/
+find_user_group	spawn-fcgi.c	/^static int find_user_group(const char *user, const/
+hstrerror	spawn-fcgi.c	/^# define hstrerror(x) ""$/
+ioctl	spawn-fcgi.c	36
+issetugid	spawn-fcgi.c	/^static int issetugid() {$/
+show_help	spawn-fcgi.c	/^static void show_help () {$/
+show_version	spawn-fcgi.c	/^static void show_version () {$/
+socklen_t	spawn-fcgi.c	59
